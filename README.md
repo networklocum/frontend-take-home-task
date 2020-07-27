@@ -10,6 +10,8 @@ Thank you for taking the time to complete our technical test. This is a common t
 * You must include tests
 * Instructions on how to run your code locally
 
+You're free to use any external libraries that could help you in this task.
+
 ## Instructions
 
 The task is to create an application that displays a list of **available** shifts to the user. The application should then display the following information about each shift:
@@ -51,3 +53,15 @@ const locum = {
  staffTypeId: '1',
 };
 ```
+
+## Next stage
+
+In the next stage we will invite you to an in-person (over video call) interview which will involve 3 parts:
+
+* 30 minutes talking with product and design
+* 90 minutes with two engineers
+  * 1 hour talking through your code (the take home challenge) and pairing together on adding a new feature
+  * 30 minutes JavaScript technical discussion
+* 30 minutes debrief with Head of Engineering
+
+At the end you will have a chance to ask us any questions that you have about the role or the company.
