@@ -5,7 +5,7 @@ Thank you for taking the time to complete our technical test. This is a common t
 ## Task requirements
 
 * Please complete the user story below according to the criteria.
-* Build using React (you can use create-react-app for quick setup)
+* Build using React (you can use [create-react-app](https://create-react-app.dev/docs/getting-started/) for quick setup)
 * Write asynchronous code
 * You must include tests
 * Instructions on how to run your code locally
