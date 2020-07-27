@@ -1,6 +1,6 @@
 # Lantum frontend take home task
 
-Thank you for taking the time to complete our technical test. This is a common type of problem that you would come across when working at Lantum. This task should only take roughly two hours and when completed please commit your code to GitHub and email us the link to your repository. If you have any questions, please drop us an email and we will be happy to help.
+Thank you for taking the time to complete our technical test. This task should only take two hours and when completed please commit your code to GitHub and email us the link to your repository. If you have any questions, please drop us an email and we will be happy to help.
 
 ## Task requirements
 
@@ -56,12 +56,13 @@ const locum = {
 
 ## Next stage
 
-In the next stage we will invite you to an in-person (over video call) interview which will involve 3 parts:
+In the next stage we will invite you to an in-person (over video call) interview. The interview will involve 3 parts:
 
 * 30 minutes talking with product and design
 * 90 minutes with two engineers
-  * 1 hour talking through your code (the take home challenge) and pairing together on adding a new feature
+  * 1 hour talking through your code (the take home challenge) and pairing together with our team
   * 30 minutes JavaScript technical discussion
 * 30 minutes debrief with Head of Engineering
 
 At the end you will have a chance to ask us any questions that you have about the role or the company.
+
