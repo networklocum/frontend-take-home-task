@@ -7,7 +7,7 @@ Thank you for taking the time to complete our technical test. This task should o
 * Please complete the user story below according to the criteria.
 * Build using React (you can use [create-react-app](https://create-react-app.dev/docs/getting-started/) for quick setup)
 * Write asynchronous code
-* You must include tests
+* Include tests
 * Instructions on how to run your code locally
 
 You're free to use any external libraries that could help you in this task.
@@ -40,7 +40,7 @@ Then only display shifts that fit the following criteria:
 * The `staffType` for the shift must be the same as the `staffType` of the user
 * The shift start date must be in the future
 * The status must be `POSTED`
-* A locum must not already be assigned to a shift
+* locum must be `null` on the session object
 
 The user will be a GP and will have the following data structure:
 
