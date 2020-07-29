@@ -1,6 +1,10 @@
 # Lantum frontend take home task
 
-Thank you for taking the time to complete our technical test. This task should only take two hours and when completed please commit your code to GitHub and email us the link to your repository. If you have any questions, please drop us an email and we will be happy to help.
+Thank you for taking the time to complete our take home challenge. Our guidance is that you spend about two hours on this task. We want to stress that we don’t expect and fancy features, or anything more than basic styling. 
+
+We understand that two hours isn’t much, and there is probably a lot more that you would want to do. We recommend having a section in the README which is “If I had more time...” and to leave  comments in your code to demonstrate your thinking.
+
+When completed, please commit your code to GitHub and email us the link to your repository. If you have any questions, please drop us an email and we will be happy to help.
 
 ## Task requirements
 
