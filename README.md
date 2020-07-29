@@ -60,7 +60,7 @@ In the next stage we will invite you to an in-person (over video call) interview
 
 * 30 minutes talking with product and design
 * 90 minutes with two engineers
-  * 1 hour talking through your code (the take home challenge) and pairing together with our team
+  * 1 hour talking through your code (the take home challenge) and pairing together with our team to add small basic functionality to your code
   * 30 minutes JavaScript technical discussion
 * 30 minutes debrief with Head of Engineering
 
